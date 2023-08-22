@@ -1,0 +1,1844 @@
+[Info  - 4:22:26 PM] 2023/08/21 16:22:26 go info for /home/ajpf/prog/go
+(go dir /home/ajpf/prog/go)
+(go version go version go1.21.0 linux/amd64)
+(valid build configuration = false)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/ajpf/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/ajpf/go/pkg/mod, GOPATH=/home/ajpf/go, GOPRIVATE=, GOROOT=/usr/local/go, GOWORK=])
+
+
+[Info  - 4:22:26 PM] 2023/08/21 16:22:26 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/ajpf/prog/go
+	query=[./ builtin]
+	packages=2
+
+[Info  - 4:22:26 PM] 2023/08/21 16:22:26 go/packages.Load #1: updating metadata for 1 packages
+
+[Error - 4:22:45 PM] 2023/08/21 16:22:45 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:1:1: expected ';', found 'EOF' (and 2 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:22:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:22:46 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:22:56 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:22:56 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:22:56 PM] 2023/08/21 16:22:56 imports fixes: AllImportsFixes: importPrefix: failed to parse: 1:1: expected 'package', found pack
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:22:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:22:57 PM] 2023/08/21 16:22:57 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:1:9: expected 'IDENT', found 'go' (and 1 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:22:57 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:22:58 PM] 2023/08/21 16:22:58 go/packages.Load #2
+	snapshot=9
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:58 PM] 2023/08/21 16:22:58 go/packages.Load #2: updating metadata for 1 packages
+
+[Info  - 4:22:58 PM] 2023/08/21 16:22:58 go/packages.Load #3
+	snapshot=10
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:58 PM] 2023/08/21 16:22:58 go/packages.Load #3: updating metadata for 1 packages
+
+[Error - 4:22:58 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:22:58 PM] 2023/08/21 16:22:58 go/packages.Load #4
+	snapshot=11
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:58 PM] 2023/08/21 16:22:58 go/packages.Load #4: updating metadata for 1 packages
+
+[Info  - 4:22:58 PM] 2023/08/21 16:22:58 go/packages.Load #5
+	snapshot=11
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Error - 4:22:58 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:22:58 PM] 2023/08/21 16:22:58 go/packages.Load #5: updating metadata for 0 packages
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #6
+	snapshot=12
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #6: updating metadata for 1 packages
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #7: updating metadata for 0 packages
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #7
+	snapshot=12
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #8
+	snapshot=13
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #8: updating metadata for 1 packages
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #9
+	snapshot=13
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #9: updating metadata for 0 packages
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #10: updating metadata for 1 packages
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #10
+	snapshot=14
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #11
+	snapshot=14
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:22:59 PM] 2023/08/21 16:22:59 go/packages.Load #11: updating metadata for 0 packages
+
+[Error - 4:22:59 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:22:59 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:22:59 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:00 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:00 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:01 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:01 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:02 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:02 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:02 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:02 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:03 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:03 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:03 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:03 PM] 2023/08/21 16:23:03 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 1 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:04 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:04 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:04 PM] 2023/08/21 16:23:04 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 1 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:04 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:05 PM] 2023/08/21 16:23:05 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 1 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:06 PM] 2023/08/21 16:23:06 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 1 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:06 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:06 PM] 2023/08/21 16:23:06 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: import path must be a string
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:06 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:07 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:07 PM] 2023/08/21 16:23:07 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 1 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:07 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:07 PM] 2023/08/21 16:23:07 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 1 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:08 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:08 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:09 PM] 2023/08/21 16:23:09 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 3 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:09 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:10 PM] 2023/08/21 16:23:10 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 3 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:11 PM] 2023/08/21 16:23:11 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:8: illegal rune literal (and 3 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:11 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:12 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:12 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:12 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:12 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:12 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:23:13 PM] 2023/08/21 16:23:13 go/packages.Load #12
+	snapshot=47
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:23:13 PM] 2023/08/21 16:23:13 go/packages.Load #12: updating metadata for 1 packages
+
+[Error - 4:23:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:23:14 PM] 2023/08/21 16:23:14 go/packages.Load #13
+	snapshot=48
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:23:14 PM] 2023/08/21 16:23:14 go/packages.Load #13: updating metadata for 1 packages
+
+[Error - 4:23:14 PM] 2023/08/21 16:23:14 unable to compute deps errors: stat : no such file or directory
+	package="_/home/ajpf/prog/go"
+
+[Info  - 4:23:14 PM] 2023/08/21 16:23:14 go/packages.Load #15
+	snapshot=50
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:23:14 PM] 2023/08/21 16:23:14 go/packages.Load #15: updating metadata for 43 packages
+
+[Error - 4:23:14 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:14 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:16 PM] 2023/08/21 16:23:16 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:3:13: expected ';', found ' (and 1 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:16 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:23:16 PM] 2023/08/21 16:23:16 go/packages.Load #16
+	snapshot=54
+	directory=file:///home/ajpf/prog/go
+	query=[./]
+	packages=1
+
+[Info  - 4:23:16 PM] 2023/08/21 16:23:16 go/packages.Load #16: updating metadata for 1 packages
+
+[Error - 4:23:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:16 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:17 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:17 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:17 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:18 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:18 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:20 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:20 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:20 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:21 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:21 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:21 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:21 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:21 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:22 PM] 2023/08/21 16:23:22 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:5:1: expected declaration, found functio
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:22 PM] 2023/08/21 16:23:22 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:5:1: expected declaration, found funct
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:22 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:22 PM] 2023/08/21 16:23:22 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:5:5: expected '(', found 'EOF' (and 3 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:23 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:24 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:24 PM] 2023/08/21 16:23:24 no completions found: this is a definition of func m()
+	position=4:6
+
+[Error - 4:23:24 PM] 2023/08/21 16:23:24 no completions found: this is a definition of func mas()
+	position=4:8
+
+[Error - 4:23:24 PM] 2023/08/21 16:23:24 no completions found: this is a definition of func masi()
+	position=4:9
+
+[Error - 4:23:24 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:24 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:24 PM] 2023/08/21 16:23:24 no completions found: this is a definition of func masin()
+	position=4:10
+
+[Error - 4:23:24 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:24 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:25 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:25 PM] 2023/08/21 16:23:25 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:5:8: expected '(', found newline (and 2 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:25 PM] 2023/08/21 16:23:25 no completions found: this is a definition of func mai()
+	position=4:8
+
+[Error - 4:23:25 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:25 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:25 PM] 2023/08/21 16:23:25 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:5:10: expected '(', found newline (and 2 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:25 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:26 PM] 2023/08/21 16:23:26 no signature help: cannot find an enclosing function
+	position=4:10
+
+[Error - 4:23:26 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:26 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:26 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:27 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:27 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:23:29 PM] 2023/08/21 16:23:29 background refresh finished after 223.112µs
+
+[Info  - 4:23:29 PM] 2023/08/21 16:23:29 background imports cache refresh starting
+
+[Error - 4:23:31 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:32 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:32 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:32 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:32 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:32 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:33 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:33 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:35 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:35 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:35 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:35 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:37 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:40 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:41 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:41 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:43 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:43 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:43 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:43 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:43 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:44 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:44 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:44 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:44 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:45 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:45 PM] 2023/08/21 16:23:45 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:46 PM] 2023/08/21 16:23:46 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:23:46 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:47 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:47 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:50 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:51 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:52 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:52 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:52 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:52 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:53 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:53 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:53 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:54 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:54 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:57 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:59 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:23:59 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:24:01 PM] 2023/08/21 16:24:01 background imports cache refresh starting
+
+[Info  - 4:24:01 PM] 2023/08/21 16:24:01 background refresh finished after 424.012µs
+
+[Error - 4:24:21 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:40 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:41 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:41 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:41 PM] 2023/08/21 16:24:41 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:21: expected operand, found ')' (and 5 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:24:41 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:42 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:42 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:42 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:42 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:42 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:43 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:43 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:43 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:45 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:50 PM] 2023/08/21 16:24:50 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:21: string literal not terminated (and 7 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:24:50 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:24:50 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:24:57 PM] 2023/08/21 16:24:57 background imports cache refresh starting
+
+[Info  - 4:24:57 PM] 2023/08/21 16:24:57 background refresh finished after 365.906µs
+
+[Error - 4:25:06 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:06 PM] 2023/08/21 16:25:06 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:21: expected operand, found ')' (and 5 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:06 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:07 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:07 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:08 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:09 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:09 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:10 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:10 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:22 PM] 2023/08/21 16:25:22 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:21: expected operand, found ')' (and 5 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:22 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:23 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:23 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:25:31 PM] 2023/08/21 16:25:31 background imports cache refresh starting
+
+[Info  - 4:25:31 PM] 2023/08/21 16:25:31 background refresh finished after 338.797µs
+
+[Error - 4:25:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:38 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:38 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:38 PM] 2023/08/21 16:25:38 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: string literal not terminated (and 7 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:38 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:39 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:39 PM] 2023/08/21 16:25:39 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: string literal not terminated (and 7 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:39 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:42 PM] 2023/08/21 16:25:42 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: string literal not terminated (and 7 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:43 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:43 PM] 2023/08/21 16:25:43 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: string literal not terminated (and 7 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:43 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:44 PM] 2023/08/21 16:25:44 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: string literal not terminated (and 7 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:45 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:45 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:45 PM] 2023/08/21 16:25:45 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: string literal not terminated (and 7 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:46 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:47 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:47 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:48 PM] 2023/08/21 16:25:48 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:28: expected operand, found ')' (and 5 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:25:48 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:48 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:59 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:25:59 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:26:06 PM] 2023/08/21 16:26:06 background imports cache refresh starting
+
+[Info  - 4:26:06 PM] 2023/08/21 16:26:06 background refresh finished after 263.984µs
+
+[Error - 4:26:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:14 PM] 2023/08/21 16:26:14 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:32: missing ',' in argument list (and 6 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:26:16 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:16 PM] 2023/08/21 16:26:16 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:31: missing ',' before newline in argument list (and 6 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:26:16 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:17 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:17 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:26:42 PM] 2023/08/21 16:26:42 background imports cache refresh starting
+
+[Info  - 4:26:42 PM] 2023/08/21 16:26:42 background refresh finished after 382.566µs
+
+[Error - 4:26:49 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:50 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:51 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:51 PM] 2023/08/21 16:26:51 no completions found: this is a definition of var a invalid type
+	position=5:6
+
+[Error - 4:26:51 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:52 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:52 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:52 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:52 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:54 PM] 2023/08/21 16:26:54 no completions found: this is a definition of var f invalid type
+	position=5:6
+
+[Error - 4:26:54 PM] 2023/08/21 16:26:54 no completions found: this is a definition of var foo invalid type
+	position=5:8
+
+[Error - 4:26:54 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:54 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:55 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:56 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:56 PM] 2023/08/21 16:26:56 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:12: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:26:56 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:57 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:58 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:58 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:58 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:58 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:59 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:59 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:26:59 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:00 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:00 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:00 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:01 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:01 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:01 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:01 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:01 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:01 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:02 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:02 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:03 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:03 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:08 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:09 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:09 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:09 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:10 PM] 2023/08/21 16:27:10 no signature help: cannot get type for Fun *ast.SelectorExpr (&{console lg})
+	position=7:12
+
+[Error - 4:27:10 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:10 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:10 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:11 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:11 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:12 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:14 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:15 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:15 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:15 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:16 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:16 PM] 2023/08/21 16:27:16 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:8:15: expected operand, found ')' (and 6 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:27:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:17 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:17 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:27:17 PM] 2023/08/21 16:27:17 background imports cache refresh starting
+
+[Info  - 4:27:17 PM] 2023/08/21 16:27:17 background refresh finished after 310.858µs
+
+[Error - 4:27:17 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:17 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:18 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:18 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:19 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:19 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:28 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:28 PM] 2023/08/21 16:27:28 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:9: expected type, found newline
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:27:30 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:30 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:31 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:31 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:32 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:32 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:32 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:34 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:34 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:35 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:36 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:37 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:38 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:38 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:38 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:38 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:39 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:39 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:40 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:40 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:41 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:41 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:41 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:42 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:43 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:47 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:47 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:47 PM] 2023/08/21 16:27:47 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:10: expected type, found newline
+	file="/home/ajpf/prog/go/app.go"
+
+[Info  - 4:27:47 PM] 2023/08/21 16:27:47 background imports cache refresh starting
+
+[Info  - 4:27:47 PM] 2023/08/21 16:27:47 background refresh finished after 405.133µs
+
+[Error - 4:27:49 PM] 2023/08/21 16:27:49 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:10: expected type, found newline
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:27:53 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:53 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:55 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:55 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:55 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:56 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:57 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:57 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:58 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:58 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:27:58 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:04 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:04 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:06 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:07 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:07 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:08 PM] 2023/08/21 16:28:08 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:8:10: expected ';', found M (and 2 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:28:08 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:08 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:10 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:10 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:10 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:10 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:11 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:11 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:12 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:14 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:14 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:21 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:21 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:22 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:28:22 PM] 2023/08/21 16:28:22 background imports cache refresh starting
+
+[Info  - 4:28:22 PM] 2023/08/21 16:28:22 background refresh finished after 417.895µs
+
+[Error - 4:28:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:40 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:49 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:49 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:28:52 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:29:04 PM] 2023/08/21 16:29:04 background imports cache refresh starting
+
+[Info  - 4:29:04 PM] 2023/08/21 16:29:04 background refresh finished after 301.549µs
+
+[Error - 4:30:23 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:30:23 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:30:23 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:30:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:30:42 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:30:52 PM] 2023/08/21 16:30:52 background imports cache refresh starting
+
+[Info  - 4:30:52 PM] 2023/08/21 16:30:52 background refresh finished after 501.141µs
+
+[Error - 4:31:12 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:15 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:15 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:16 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:27 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:27 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:27 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:27 PM] 2023/08/21 16:31:27 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:13:20: expected operand, found '.' (and 3 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:31:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:28 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:28 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:40 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:40 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:31:44 PM] 2023/08/21 16:31:44 background imports cache refresh starting
+
+[Info  - 4:31:44 PM] 2023/08/21 16:31:44 background refresh finished after 594.042µs
+
+[Error - 4:31:46 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:46 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:48 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:48 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:49 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:50 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:50 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:31:50 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:32:16 PM] 2023/08/21 16:32:16 background imports cache refresh starting
+
+[Info  - 4:32:16 PM] 2023/08/21 16:32:16 background refresh finished after 366.511µs
+
+[Error - 4:45:36 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:45:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:45:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:45:37 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:45:38 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:47:58 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:47:58 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:48:30 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:48:30 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:48:30 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:05 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:06 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:07 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:07 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:11 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:11 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:14 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:14 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:14 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:14 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:15 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:15 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:17 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:17 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:17 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:17 PM] 2023/08/21 16:53:17 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:15: expected operand, found ')' (and 6 more errors)
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:53:17 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:18 PM] 2023/08/21 16:53:18 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:53:18 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:19 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:19 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:19 PM] 2023/08/21 16:53:19 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:53:19 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:19 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:20 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:21 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:21 PM] 2023/08/21 16:53:21 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:53:21 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:21 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:22 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:22 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:23 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:23 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:23 PM] 2023/08/21 16:53:23 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:53:23 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:23 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:24 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:24 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:24 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:24 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:24 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:24 PM] 2023/08/21 16:53:24 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:53:24 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:24 PM] 2023/08/21 16:53:24 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:6:14: illegal rune literal
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 4:53:25 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:25 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:26 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:26 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:26 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:26 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:27 PM] 2023/08/21 16:53:27 no signature help: no signature help within a string literal
+	position=5:14
+
+[Error - 4:53:27 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:27 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:27 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:28 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:28 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:29 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:29 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:29 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:29 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:30 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:30 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:31 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 4:53:31 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 4:53:39 PM] 2023/08/21 16:53:39 background imports cache refresh starting
+
+[Info  - 4:53:39 PM] 2023/08/21 16:53:39 background refresh finished after 333.641µs
+
+[Error - 5:09:13 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:13 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:22 PM] 2023/08/21 17:09:22 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:10:50: missing ',' in argument list
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 5:09:22 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:22 PM] 2023/08/21 17:09:22 imports fixes: AllImportsFixes: /home/ajpf/prog/go/app.go:10:51: missing ',' in argument list
+	file="/home/ajpf/prog/go/app.go"
+
+[Error - 5:09:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:23 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:23 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:25 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:26 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:30 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:30 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:31 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 5:09:31 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 5:09:42 PM] 2023/08/21 17:09:42 background imports cache refresh starting
+
+[Info  - 5:09:42 PM] 2023/08/21 17:09:42 background refresh finished after 314.553µs
+
+[Info  - 5:32:16 PM] 2023/08/21 17:32:16 Shutdown session
+	shutdown_session=1
+

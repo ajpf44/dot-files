@@ -1,0 +1,168 @@
+[Info  - 6:52:31 PM] 2023/08/21 18:52:31 go info for /home/ajpf/Documents/facul
+(go dir /home/ajpf/Documents/facul)
+(go version go version go1.21.0 linux/amd64)
+(valid build configuration = false)
+(build flags: [])
+(selected go env: [GO111MODULE=, GOCACHE=/home/ajpf/.cache/go-build, GOFLAGS=, GOMODCACHE=/home/ajpf/go/pkg/mod, GOPATH=/home/ajpf/go, GOPRIVATE=, GOROOT=/usr/local/go, GOWORK=])
+
+
+[Info  - 6:52:32 PM] 2023/08/21 18:52:32 go/packages.Load #1
+	snapshot=0
+	directory=file:///home/ajpf/Documents/facul
+	query=[./ builtin]
+	packages=2
+
+[Info  - 6:52:32 PM] 2023/08/21 18:52:32 go/packages.Load #1: updating metadata for 43 packages
+
+[Error - 6:52:32 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:52:32 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:05 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:05 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:05 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:06 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:06 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 6:53:06 PM] 2023/08/21 18:53:06 background imports cache refresh starting
+
+[Info  - 6:53:06 PM] 2023/08/21 18:53:06 background refresh finished after 656.286µs
+
+[Error - 6:53:07 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:07 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:08 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:09 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:09 PM] 2023/08/21 18:53:09 no signature help: cannot find signature for Fun *ast.Ident (string)
+	position=16:21
+
+[Error - 6:53:09 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:09 PM] 2023/08/21 18:53:09 imports fixes: AllImportsFixes: /home/ajpf/Documents/facul/studyDay.go:17:35: missing ',' before newline in argument list (and 8 more errors)
+	file="/home/ajpf/Documents/facul/studyDay.go"
+
+[Error - 6:53:09 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:10 PM] 2023/08/21 18:53:10 imports fixes: AllImportsFixes: /home/ajpf/Documents/facul/studyDay.go:17:35: missing ',' before newline in argument list (and 8 more errors)
+	file="/home/ajpf/Documents/facul/studyDay.go"
+
+[Error - 6:53:11 PM] 2023/08/21 18:53:11 imports fixes: AllImportsFixes: /home/ajpf/Documents/facul/studyDay.go:17:35: missing ',' before newline in argument list (and 8 more errors)
+	file="/home/ajpf/Documents/facul/studyDay.go"
+
+[Error - 6:53:12 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:12 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:16 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:21 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:22 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:22 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:22 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:25 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:26 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:26 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:26 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:26 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:26 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:27 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:27 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:27 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:28 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:28 PM] 2023/08/21 18:53:28 imports fixes: AllImportsFixes: /home/ajpf/Documents/facul/studyDay.go:12:39: expected operand, found ';' (and 7 more errors)
+	file="/home/ajpf/Documents/facul/studyDay.go"
+
+[Error - 6:53:28 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:29 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:29 PM] 2023/08/21 18:53:29 imports fixes: AllImportsFixes: /home/ajpf/Documents/facul/studyDay.go:12:40: expected operand, found ';' (and 7 more errors)
+	file="/home/ajpf/Documents/facul/studyDay.go"
+
+[Error - 6:53:29 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:31 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:31 PM] 2023/08/21 18:53:31 imports fixes: AllImportsFixes: /home/ajpf/Documents/facul/studyDay.go:12:40: illegal rune literal
+	file="/home/ajpf/Documents/facul/studyDay.go"
+
+[Error - 6:53:31 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:31 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:31 PM] Request textDocument/semanticTokens/range failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Error - 6:53:32 PM] Request textDocument/semanticTokens/full failed.
+  Message: semantictokens are disabled
+  Code: 0 
+[Info  - 6:53:37 PM] 2023/08/21 18:53:37 background imports cache refresh starting
+
+[Info  - 6:53:37 PM] 2023/08/21 18:53:37 background refresh finished after 1.358132ms
+
+[Info  - 6:53:41 PM] 2023/08/21 18:53:41 Shutdown session
+	shutdown_session=1
+

@@ -1,0 +1,5 @@
+2023-08-18 20:48:57.799 [info] [perf] Render performance baseline is 158ms
+2023-08-18 20:49:04.640 [error] [File Watcher (parcel)] Unexpected error: inotify_add_watch on '/home/ajpf/.config/Code/logs/20230816T091757/window1/output_20230816T091800' failed: No such file or directory (EUNKNOWN) (path: /home/ajpf)
+2023-08-18 20:49:04.643 [error] [File Watcher (universal)] restarting watcher after error: inotify_add_watch on '/home/ajpf/.config/Code/logs/20230816T091757/window1/output_20230816T091800' failed: No such file or directory
+2023-08-18 20:49:04.664 [error] [UtilityProcessWorker]: terminated unexpectedly with code 15, signal: unknown
+2023-08-18 20:49:04.665 [error] [File Watcher (universal)] restarting watcher after error: terminated by itself unexpectedly with code 15, signal: unknown

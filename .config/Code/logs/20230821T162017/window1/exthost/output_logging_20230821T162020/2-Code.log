@@ -1,0 +1,77 @@
+[Running] go run "/home/ajpf/prog/go/app.go"
+Hello World!
+
+[Done] exited with code=0 in 0.358 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+golang
+
+[Done] exited with code=0 in 0.312 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+# command-line-arguments
+./app.go:6:14: invalid operation: "go" + 1 (mismatched types untyped string and untyped int)
+
+[Done] exited with code=1 in 0.224 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+goOlá mundo
+
+[Done] exited with code=0 in 0.245 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+20/3 =  6
+
+[Done] exited with code=0 in 0.482 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+OLá mundo
+
+[Done] exited with code=0 in 0.323 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+3
+
+[Done] exited with code=0 in 0.279 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+# command-line-arguments
+./app.go:6:10: syntax error: unexpected newline, expected type
+
+[Done] exited with code=1 in 0.174 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+Mundo ${3}
+
+[Done] exited with code=0 in 0.419 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+Doris spent 0.08 on text messages today
+
+[Done] exited with code=0 in 0.305 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+Doris spent 2.00 on text messages today
+
+[Done] exited with code=0 in 0.275 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+Doris spent 2.00 on text messages today
+
+[Done] exited with code=0 in 0.279 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+Eae seu cuzão
+
+[Done] exited with code=0 in 0.325 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+Authorization: Basic wagslane: 20947382822
+
+[Done] exited with code=0 in 0.461 seconds
+
+[Running] go run "/home/ajpf/prog/go/app.go"
+Authorization: Basic wagslane: 20947382822
+
+[Done] exited with code=0 in 0.36 seconds
+

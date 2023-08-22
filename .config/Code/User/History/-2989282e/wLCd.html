@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+    <title>Document</title>
+    <style>
+        #chart{
+            width: 400px;
+            height: 400px;
+
+            background-color: lightgrey;
+            font-size: 2em;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="chart"></canvas>
+    <script>
+        const canvasChart = document.getElementById('chart')
+
+        new Chart(canvasChart, {
+            type: 'bar',
+            data: {
+                labels: ['Red', 'Green' ,'Blue'], 
+                datasets: [{
+                    label: '# of Votes', 
+                    data: [120, 120, 240],
+                    borderWIdth: 1
+                }]
+            },
+            opstions:{
+                scales: {
+                    y: {
+                        beginAtZero: true
+                    }
+                }
+            }
+        })
+    </script>
+</body>
+</html>

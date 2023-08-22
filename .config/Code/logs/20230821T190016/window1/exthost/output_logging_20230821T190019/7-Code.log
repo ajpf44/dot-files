@@ -1,0 +1,30 @@
+[Running] go run "/home/ajpf/Documents/facul/studyDay.go"
+# command-line-arguments
+./studyDay.go:14:21: cannot convert string(date[i]) + day (value of type string) to type int
+./studyDay.go:19:8: invalid operation: day % 2 (mismatched types string and untyped int)
+
+[Done] exited with code=1 in 0.119 seconds
+
+[Running] go run "/home/ajpf/Documents/facul/studyDay.go"
+Hoje é dia de estudar
+<nil>
+inglês e algorítmo
+
+[Done] exited with code=0 in 0.238 seconds
+
+[Running] go run "/home/ajpf/Documents/facul/studyDay.go"
+Hoje é dia de estudar
+inglês e algorítmo
+
+[Done] exited with code=0 in 0.248 seconds
+
+[Running] go run "/home/ajpf/Documents/facul/studyDay.go"
+Hoje é dia de estudaringlês e algorítmo
+
+[Done] exited with code=0 in 0.223 seconds
+
+[Running] go run "/home/ajpf/Documents/facul/studyDay.go"
+Hoje é dia de estudar: inglês e algorítmo
+
+[Done] exited with code=0 in 0.233 seconds
+

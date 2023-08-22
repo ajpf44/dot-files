@@ -1,0 +1,246 @@
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+Data written to file successfully.
+
+[Done] exited with code=0 in 0.099 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+Data written to file successfully.
+
+[Done] exited with code=0 in 0.096 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+Data written to file successfully.
+
+[Done] exited with code=0 in 0.092 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+<Buffer 48 65 6c 6c 6f 20 57 6f 72 6c 64 2e 54 68 61 74 20 77 0a 54 68 61 74 20 77 61 73 20 61 70 70 65 6e 64 20 74 6f 20 66 69 6c 65>
+
+[Done] exited with code=0 in 0.107 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+Hello World.That w
+That was append to file
+
+[Done] exited with code=0 in 0.11 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+[ 'Hello World.That w', 'That was append to file' ]
+
+[Done] exited with code=0 in 0.101 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+Promise { <pending> }
+
+[Done] exited with code=0 in 0.615 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ message: '401: Unauthorized', code: 0 }
+
+[Done] exited with code=0 in 0.621 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{
+  application_id: null,
+  avatar: null,
+  channel_id: '1141468856980881518',
+  guild_id: '529894560046907393',
+  id: '1142219578160721973',
+  name: 'News',
+  type: 1,
+  user: {
+    id: '351381849735692299',
+    username: 'alejol',
+    avatar: '6fd499ec1e7317b452593495ca1f351a',
+    discriminator: '0',
+    public_flags: 4194432,
+    flags: 4194432,
+    banner: null,
+    accent_color: null,
+    global_name: 'Alejol',
+    avatar_decoration_data: null,
+    banner_color: null
+  },
+  token: 'bEfMuhNzn8fJGdADD639eUl5e8wEtcefNbcV6my1vN2yDHpTIBybvs9ZxCGBzyLFd1d_',
+  url: 'https://discord.com/api/webhooks/1142219578160721973/bEfMuhNzn8fJGdADD639eUl5e8wEtcefNbcV6my1vN2yDHpTIBybvs9ZxCGBzyLFd1d_'
+}
+
+[Done] exited with code=0 in 0.689 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+
+[Done] exited with code=0 in 0.085 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+400
+
+[Done] exited with code=0 in 0.647 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{
+  _misc: [
+    `Expected "Content-Type" header to be one of {'application/x-www-form-urlencoded', 'application/json', 'multipart/form-data'}.`
+  ]
+}
+
+[Done] exited with code=0 in 0.707 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ message: 'The request body contains invalid JSON.', code: 50109 }
+
+[Done] exited with code=0 in 0.811 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ message: 'Cannot send an empty message', code: 50006 }
+
+[Done] exited with code=0 in 0.864 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ message: 'The request body contains invalid JSON.', code: 50109 }
+
+[Done] exited with code=0 in 0.76 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ message: 'The request body contains invalid JSON.', code: 50109 }
+
+[Done] exited with code=0 in 0.709 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{"content":"text text text"}
+
+[Done] exited with code=0 in 0.108 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ message: 'The request body contains invalid JSON.', code: 50109 }
+
+[Done] exited with code=0 in 1.03 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ message: 'The request body contains invalid JSON.', code: 50109 }
+
+[Done] exited with code=0 in 0.837 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6662:19)
+    at successSteps (node:internal/deps/undici/undici:6636:27)
+    at specConsumeBody (node:internal/deps/undici/undici:6642:9)
+    at Response.json (node:internal/deps/undici/undici:6533:18)
+    at execute (file:///home/ajpf/prog/js/app.js:28:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.17.1
+
+[Done] exited with code=1 in 0.921 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6662:19)
+    at successSteps (node:internal/deps/undici/undici:6636:27)
+    at specConsumeBody (node:internal/deps/undici/undici:6642:9)
+    at Response.json (node:internal/deps/undici/undici:6533:18)
+    at execute (file:///home/ajpf/prog/js/app.js:28:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.17.1
+
+[Done] exited with code=1 in 0.885 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6662:19)
+    at successSteps (node:internal/deps/undici/undici:6636:27)
+    at specConsumeBody (node:internal/deps/undici/undici:6642:9)
+    at Response.json (node:internal/deps/undici/undici:6533:18)
+    at execute (file:///home/ajpf/prog/js/app.js:28:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.17.1
+
+[Done] exited with code=1 in 0.919 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+file:///home/ajpf/prog/js/app.js:31
+    console.log( await res.json()  */)
+                                     ^
+
+SyntaxError: Unexpected token ')'
+    at ESMLoader.moduleStrategy (node:internal/modules/esm/translators:119:18)
+    at ESMLoader.moduleProvider (node:internal/modules/esm/loader:468:14)
+    at async link (node:internal/modules/esm/module_job:68:21)
+
+Node.js v18.17.1
+
+[Done] exited with code=1 in 0.116 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ content: 'Hello World!' }
+
+[Done] exited with code=0 in 0.822 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ content: 'Hello World!' }
+{ message: 'The request body contains invalid JSON.', code: 50109 }
+
+[Done] exited with code=0 in 0.798 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ content: 'Hello World!' }
+undefined:1
+
+
+SyntaxError: Unexpected end of JSON input
+    at JSON.parse (<anonymous>)
+    at parseJSONFromBytes (node:internal/deps/undici/undici:6662:19)
+    at successSteps (node:internal/deps/undici/undici:6636:27)
+    at specConsumeBody (node:internal/deps/undici/undici:6642:9)
+    at Response.json (node:internal/deps/undici/undici:6533:18)
+    at execute (file:///home/ajpf/prog/js/app.js:31:28)
+    at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+
+Node.js v18.17.1
+
+[Done] exited with code=1 in 0.865 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ content: 'Hello World!' }
+
+[Done] exited with code=0 in 0.916 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+{ content: 'Hello World!' }
+204
+
+[Done] exited with code=0 in 0.919 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+file:///home/ajpf/prog/js/app.js:9
+    const url = `https://discord.com/api/webhooks/${webhook.id}/${webhook.token}`
+          ^
+
+SyntaxError: Identifier 'url' has already been declared
+    at ESMLoader.moduleStrategy (node:internal/modules/esm/translators:119:18)
+    at ESMLoader.moduleProvider (node:internal/modules/esm/loader:468:14)
+    at async link (node:internal/modules/esm/module_job:68:21)
+
+Node.js v18.17.1
+
+[Done] exited with code=1 in 0.096 seconds
+
+[Running] /home/ajpf/.nvm/versions/node/v18.17.1/bin/node "/home/ajpf/prog/js/app.js"
+204
+
+[Done] exited with code=0 in 1.133 seconds
+

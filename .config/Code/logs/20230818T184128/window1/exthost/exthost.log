@@ -1,0 +1,18 @@
+2023-08-18 18:41:31.896 [info] Extension host with pid 28037 started
+2023-08-18 18:41:31.897 [info] Skipping acquiring lock for /home/ajpf/.config/Code/User/workspaceStorage/7e61df521875536f782e96758a3be646.
+2023-08-18 18:41:32.605 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2023-08-18 18:41:32.635 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:javascript'
+2023-08-18 18:41:33.760 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2023-08-18 18:41:33.773 [info] ExtensionService#_doActivateExtension vscode.npm, startup: true, activationEvent: 'workspaceContains:package.json'
+2023-08-18 18:41:33.939 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2023-08-18 18:41:34.000 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2023-08-18 18:41:35.222 [info] Eager extensions activated
+2023-08-18 18:41:35.987 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2023-08-18 18:41:35.990 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2023-08-18 18:41:36.029 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2023-08-18 18:41:36.099 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2023-08-18 18:41:39.774 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2023-08-18 18:41:39.847 [info] ExtensionService#_doActivateExtension vscode.microsoft-authentication, startup: false, activationEvent: 'onAuthenticationRequest:microsoft'
+2023-08-18 18:41:41.240 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2023-08-18 20:48:16.114 [info] Extension host terminating: renderer closed the MessagePort
+2023-08-18 20:48:16.152 [info] Extension host with pid 28037 exiting with code 0
