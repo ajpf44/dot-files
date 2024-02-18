@@ -11,14 +11,15 @@
 
 set $mod Mod4
 
-    # Font for window titles. Will also be used by the bar unless a different font
+# Font for window titles. Will also be used by the bar unless a different font
 # is used in the bar {} block below.
-#font pango:monospace 9
-font pango:DejaVu Sans Mono 9
+#font pango:monospace 13
+font pango:Sorce Code Pro 13
+#font pango:DejaVu Sans Mono 9
+
 
 # This font is widely installed, provides lots of unicode glyphs, right-to-left
 # text rendering and scalability on retina/hidpi displays (thanks to pango).
-#font pango:DejaVu Sans Mono 8
 
 # Start XDG autostart .desktop files using dex. See also
 # https://wiki.archlinux.org/index.php/XDG_Autostart
@@ -36,8 +37,9 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 
 #ME
-exec --no-startup-id xrandr  --output eDP-1 --off
-#exec --no-startup-id picom -b
+#exec --no-startup-id xrandr  --output eDP1 --off
+#exec --no-startup-id xrandr -s 1920x1080
+exec --no-startup-id picom -b
 #turn off title bar
 default_border pixel
 default_floating_border pixel
@@ -69,7 +71,7 @@ bindsym $mod+Return exec alacritty
 bindsym $mod+Shift+q kill
 
 # start dmenu (a program launcher)
-bindsym $mod+d exec --no-startup-id "dmenu_run -sb '#FF7F0F'"
+bindsym $mod+d exec --no-startup-id "dmenu_run -sb '#FF7F0F' -fn 'monospace-13'" 
 #bindsym $mod+d exec "dmenu_run -nf '#BBBBBB' -nb '#1F220F' -sb '#D96C0D' -sf '#EEEEEE' -fn 'monospace-10' -p 'dmenu prompt &gt;'"
 
 # A more modern dmenu replacement is rofi:
@@ -235,4 +237,3 @@ client.placeholder      #000000 #0c0c0c #ffffff #000000   #0c0c0c
 
 
 exec --no-startup-id  nitrogen --restore
-bindsym $mod+t exec ~/prog/cs50x/c/app

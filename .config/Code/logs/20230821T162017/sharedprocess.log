@@ -1,7 +1,0 @@
-2023-08-21 16:21:12.751 [info] Getting Manifest... golang.go
-2023-08-21 16:21:12.797 [info] Installing extension: golang.go
-2023-08-21 16:21:20.164 [info] Extension signature is verified: golang.go
-2023-08-21 16:21:20.623 [info] Extracted extension to file:///home/ajpf/.vscode/extensions/golang.go-0.39.1: golang.go
-2023-08-21 16:21:20.647 [info] Renamed to /home/ajpf/.vscode/extensions/golang.go-0.39.1
-2023-08-21 16:21:20.667 [info] Extracting extension completed. golang.go
-2023-08-21 16:21:20.706 [info] Extension installed successfully: golang.go
