@@ -39,7 +39,7 @@ exec --no-startup-id nm-applet
 #ME
 #exec --no-startup-id xrandr  --output eDP1 --off
 #exec --no-startup-id xrandr -s 1920x1080
-exec --no-startup-id picom -b
+exec --no-startup-id picom -b --no-fading-openclose
 #turn off title bar
 default_border pixel
 default_floating_border pixel
