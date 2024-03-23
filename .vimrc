@@ -15,25 +15,10 @@ set autoindent
 filetype plugin on
 set omnifunc=syntaxcomplete#Complete
 
-"inoremap " ""<left>
-"inoremap ' ''<left>
-"inoremap ( ()<left>
-"inoremap [ []<left>
-"inoremap { {}<left>
-"inoremap {<CR> {<CR>}<ESC>O
-"inoremap {;<CR> {<CR>};<ESC>O
-
-
-call plug#begin()
-
-Plug 'mattn/emmet-vim'
-Plug 'alvan/vim-closetag'
-Plug 'pangloss/vim-javascript'
-Plug 'fatih/vim-go', { 'do': ':GoUpdateBinaries' }
-Plug 'lambdalisue/fern.vim'
-Plug 'jiangmiao/auto-pairs'
-Plug 'leafgarland/typescript-vim'
-
-call plug#end()
-
-let g:user_emmet_leader_key=','
+inoremap " ""<left>
+inoremap ' ''<left>
+inoremap ( ()<left>
+inoremap [ []<left>
+inoremap { {}<left>
+inoremap {<CR> {<CR>}<ESC>O
+inoremap {;<CR> {<CR>};<ESC>O
