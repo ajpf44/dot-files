@@ -37,7 +37,7 @@ exec --no-startup-id xss-lock --transfer-sleep-lock -- i3lock --nofork
 exec --no-startup-id nm-applet
 
 #ME
-#exec --no-startup-id xrandr  --output eDP1 --off
+exec --no-startup-id xrandr  --output eDP-1 --off
 #exec --no-startup-id xrandr -s 1920x1080
 exec --no-startup-id picom -b --no-fading-openclose
 #turn off title bar
@@ -65,7 +65,9 @@ floating_modifier $mod
 
 # start a terminal
 #bindsym $mod+Return exec i3-sensible-terminal
-bindsym $mod+Return exec alacritty
+#bindsym $mod+Return exec alacritty
+
+bindsym $mod+Return exec gnome-terminal
 
 # kill focused window
 bindsym $mod+Shift+q kill
